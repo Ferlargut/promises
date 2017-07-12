@@ -1,0 +1,26 @@
+{
+  "name": "promesas",
+  "version": "1.0.0",
+  "description": "Ejercicio de promises",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferlargut/promises.git"
+  },
+  "keywords": [
+    "promise",
+    "json"
+  ],
+  "author": "Ferlargut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferlargut/promises/issues"
+  },
+  "homepage": "https://github.com/Ferlargut/promises#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
